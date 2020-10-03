@@ -11,6 +11,9 @@ You can make an issue for a specific thing you want in the future. But, keep in 
 1. Make it possible to rescale an output image;
 2. MacOS version.
 
+# Supported systems
+1. Win 7, 8, 10.
+
 # Bug reports
 
 #### Environment (check currently available platforms and TODOs)
