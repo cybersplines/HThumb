@@ -2,6 +2,9 @@
 
 HThumb is an app that lets you make thumbnails out of your High Dynamic Range images with 1 button.
 
+# IMPORTANT!
+Use only latin symbols in your pathes.
+
 # TODOs
 
 You can create an issue for a specific thing you want in the future. But, keep in mind, I have a full-time job, so I do all the things on weekends only. Or, hit me in the Instagram DMs @http_five.
