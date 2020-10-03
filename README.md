@@ -4,7 +4,7 @@ HThumb is an app that lets you make thumbnails out of your High Dynamic Range im
 
 # TODOs
 
-You can make an issue for a specific thing you want in the future. But, keep in mind, I have a full-time job, so I do all the things on weekends only. Or, hit me in the Instagram DMs @http_five.
+You can create an issue for a specific thing you want in the future. But, keep in mind, I have a full-time job, so I do all the things on weekends only. Or, hit me in the Instagram DMs @http_five.
 
 #### Selected for Development
 
