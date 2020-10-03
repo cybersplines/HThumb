@@ -51,3 +51,7 @@ Write here.
 # Licence
 
 Please, read the licence files attached.
+
+# You can support the project on Patreon
+
+https://www.patreon.com/httpfive
