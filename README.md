@@ -10,7 +10,7 @@ Virustotal might provide some false-positive because builder came with pre-compi
 
 # TODOs
 
-You can create an issue for a specific thing you want in the future. But, keep in mind, I have a full-time job, so I do all the things on weekends only. Or, hit me in the Instagram DMs @http_five.
+You can create an issue for a specific thing you want in the future. But, keep in mind, I have a full-time job, so I do all the things on weekends only. Or, hit me in the Instagram DMs @cybersplines.
 
 # Supported systems
 1. Win 7, 8, 10.
