@@ -15,9 +15,6 @@ You can create an issue for a specific thing you want in the future. But, keep i
 # Supported systems
 1. Win 7, 8, 10.
 
-# Tutorial
-https://www.youtube.com/watch?v=nb15iUGE07Q
-
 # Bug reports
 
 #### Environment (check currently available platforms and TODOs)
