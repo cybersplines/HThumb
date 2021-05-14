@@ -5,8 +5,9 @@ HThumb is an app that lets you make thumbnails out of your multiple High Dynamic
 
 
 # IMPORTANT!
-Use only latin symbols in your pathes.
+Use only latin symbols in your pathes. 
 Virustotal might provide some false-positive because builder came with pre-compiled bootloader binaries for different OSs. You can always run the app on a virtual machine, if it bothers you. 
+UPD: Src is available. Now, those who were afraid of using .exe file may build the project from .py using their own tools.
 
 # TODOs
 
