@@ -38,7 +38,7 @@ def start():
 
 
 
-button = Button(root, text="Select Folder", command=start)
+button = Button(root, text="Select a Folder", command=start)
 button.place(x=0, y=0, relx=0.5, rely=0.5, anchor=CENTER)
 
 
